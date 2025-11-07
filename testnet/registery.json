@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "network": "testnet",
+  "assets": [
+    {
+      "asset_code": "Archimedes",
+      "asset_issuer": "GBP7HXY4QXLKZBKIUR75Y6I3OHB2CQLAUA2FV2LCNDRPP54TZLNBSENX"
+    },
+    {
+      "asset_code": "PizzaToken",
+      "asset_issuer": "GCAT4RF7TDMSW6NVO5GVIN54CDNN3ACP2QMEJTPPCABET4C5KYM3AHAY"
+    },
+    {
+      "asset_code": "ShrimpSwap",
+      "asset_issuer": "GA4T4D3BHKFBZM23IH4EKXGKH46XF4DIPVLQBIJ7NKC3MIG2FR4F7PYP"
+    }
+  ]
+}
