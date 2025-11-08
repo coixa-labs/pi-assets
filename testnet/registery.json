@@ -3,6 +3,10 @@
   "network": "testnet",
   "assets": [
     {
+      "asset_code": "Coixa",
+      "asset_issuer": "GBQWXEXG2TV7SBIUN2J44RLY6VZAC3BC5UJ62OFGH7GC7U3WRWXOLEMV",
+    },
+    {
       "asset_code": "Archimedes",
       "asset_issuer": "GBP7HXY4QXLKZBKIUR75Y6I3OHB2CQLAUA2FV2LCNDRPP54TZLNBSENX"
     },
