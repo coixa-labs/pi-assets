@@ -8,6 +8,26 @@
       "logo": "https://raw.githubusercontent.com/coixa-labs/pi-assets/main/logo/coixa.png"
     },
     {
+      "asset_code": "CYBER",
+      "asset_issuer": "GD256PPPOZZEVNE4HRS5BAI5AN4H43DKXOFIYT227HY5R4YYXYY32Q33"
+    },
+    {
+      "asset_code": "KAP",
+      "asset_issuer": "GCFZ22QTRBWATJHHS7IBGILHW3WPZ73V4J6J3AAB6DAV65N5I4XV4ZR2"
+    },
+    {
+      "asset_code": "IZZA",
+      "asset_issuer": "GDKS3KFAM5RBBTSYTFUEHHN7GYRPHV7A6K2BI44LL3QQKXCA6ODBCS57"
+    },
+    {
+      "asset_code": "WRP",
+      "asset_issuer": "GDB6NN7RPLW57CRVGFYH3FNL64CM74BOHJIQTMI7TZC3HXCFL2TO4EIP"
+    },
+    {
+      "asset_code": "FUND",
+      "asset_issuer": "GDVRRXONXUIMGWCHJGOHTBXV7OLZVG7OIY36AJGILVBYCTKZ37FTEHHM"
+    },
+    {
       "asset_code": "Archimedes",
       "asset_issuer": "GBP7HXY4QXLKZBKIUR75Y6I3OHB2CQLAUA2FV2LCNDRPP54TZLNBSENX"
     },
