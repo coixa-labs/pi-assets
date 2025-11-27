@@ -4,25 +4,25 @@
       "name": "OKX",
       "address": "GALYJFJ5SVD45FBWN2GT4IW67SEZ3IBOFSBSPUFCWV427NBNLG3PXEQU",
       "url": "https://www.okx.com",
-      "logo": "https://raw.githubusercontent.com/coixa-labs/pi-assets/main/logo/okx.png",
+      "logo": "https://raw.githubusercontent.com/coixa-labs/pi-assets/main/logo/okx.png"
     },
     {
       "name": "Bitget",
       "address": "GDFNWH6ZFJVHJDLBMNOUT35X4EEKQVJAO3ZDL4NL7VQJLC4PJOQFWJ75",
       "url": "https://www.bitget.com/",
-      "logo": "https://raw.githubusercontent.com/coixa-labs/pi-assets/main/logo/bitget.png",
+      "logo": "https://raw.githubusercontent.com/coixa-labs/pi-assets/main/logo/bitget.png"
     },
     {
       "name": "Gate.io",
       "address": "GBC6NRTTQLRCABQHIR5J4R4YDJWFWRAO4ZRQIM2SVI5GSIZ2HZ42RINW",
       "url": "https://www.gate.io/",
-      "logo": "https://raw.githubusercontent.com/coixa-labs/pi-assets/main/logo/gateio.png",
+      "logo": "https://raw.githubusercontent.com/coixa-labs/pi-assets/main/logo/gateio.png"
     },
     {
       "name": "MEXC",
       "address": "GD5HGPHVL73EBDUD2Z4K2VDRLUBC4FFN7GOBLKPK6OPPXH6TED4TRK73",
       "url": "https://www.mexc.com/",
-      "logo": "https://raw.githubusercontent.com/coixa-labs/pi-assets/main/logo/mexc.webp",
+      "logo": "https://raw.githubusercontent.com/coixa-labs/pi-assets/main/logo/mexc.webp"
     },
   ]
 }
