@@ -1,0 +1,24 @@
+{
+  "cex": [
+    {
+      "name": "OKX",
+      "address": "GALYJFJ5SVD45FBWN2GT4IW67SEZ3IBOFSBSPUFCWV427NBNLG3PXEQU",
+      "logo": ""
+    },
+    {
+      "name": "Bitget",
+      "address": "GDFNWH6ZFJVHJDLBMNOUT35X4EEKQVJAO3ZDL4NL7VQJLC4PJOQFWJ75",
+      "logo": ""
+    },
+    {
+      "name": "Gate.io",
+      "address": "GBC6NRTTQLRCABQHIR5J4R4YDJWFWRAO4ZRQIM2SVI5GSIZ2HZ42RINW",
+      "logo": ""
+    },
+    {
+      "name": "MEXC",
+      "address": "GD5HGPHVL73EBDUD2Z4K2VDRLUBC4FFN7GOBLKPK6OPPXH6TED4TRK73",
+      "logo": ""
+    },
+  ]
+}
